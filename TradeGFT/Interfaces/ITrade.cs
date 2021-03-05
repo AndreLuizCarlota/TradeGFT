@@ -1,4 +1,6 @@
-﻿namespace TradeGFT.Interfaces
+﻿using System;
+
+namespace TradeGFT.Interfaces
 {
     public interface ITrade
     {
